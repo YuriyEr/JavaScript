@@ -1,0 +1,18 @@
+.headerTop, .sometext {
+    color: #4f4f4f;
+    font-size: 36px;
+    line-height: 1.25;
+    width: 100%;
+    text-align: center;
+}
+
+.arrayBlock {
+    display: flex;
+    justify-content: space-around;
+    color:rgb(139, 122, 73);
+    opacity: 0.7;
+    font-size: 30px;
+    line-height: 1.25;
+    width: 100%;
+    text-align: center;
+}
